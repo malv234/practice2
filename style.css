@@ -1,0 +1,29 @@
+.bg{
+    background-color: lightskyblue;
+    color:rgb(0, 0, 0);
+    padding: 10px;}
+    
+table,tr,th{
+    border: 1px solid white;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5em; ;
+}
+
+td{
+    border-right: 1px solid white;
+}
+.btn {
+    background-color: rgba(0, 190, 174, 0.589);
+    color: black;
+    border-radius: 150px;
+    border-bottom: 20px;
+
+}
+.rst
+{
+    background-color: rgb(9, 187, 151);
+    border-radius: 100px;
+    color: black;
+    border-bottom: 20px;
+}
